@@ -7,7 +7,7 @@
 
 #Input Files:  
 Primary Notebook  
-git\Crowdfunding_ETL\ETL_Mini_Project.ipynb
+git\Crowdfunding_ETL\ETL_Mini_Project_SBennett_COsieczonek_MGodlove_GFrancione.ipynb
 
 Source Input Files:  
 git\Crowdfunding_ETL\Resources\contacts.xlsx  
