@@ -1,13 +1,13 @@
 # Crowdfunding_ETL
 # Group Members:
-* Cody
-* Ginger
-* Mason
-* Steve
+* Cody Osieczonek
+* Ginger Francione
+* Mason Godlove
+* Steve Bennett
 
 #Input Files:  
 Primary Notebook  
-git\Crowdfunding_ETL\ETL_Mini_Project_SBennett_COsieczonek_MGodlove_GFrancione.ipynb  
+git\Crowdfunding_ETL\ETL_Mini_Project.ipynb
 
 Source Input Files:  
 git\Crowdfunding_ETL\Resources\contacts.xlsx  
