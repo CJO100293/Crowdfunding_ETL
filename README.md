@@ -20,12 +20,12 @@
 * Crowdfunding_ETL\crowdfunding_db_schema.sql
 
 ### **Output Files:**
-* Crowdfunding_ETL\output_data\campaign.csv  
-* Crowdfunding_ETL\output_data\category.csv   
-* Crowdfunding_ETL\output_data\subcategory.csv  
-* Crowdfunding_ETL\output_data\contacts.csv  
+* git\Crowdfunding_ETL\output_data\campaign.csv  
+* git\Crowdfunding_ETL\output_data\category.csv  
+* git\Crowdfunding_ETL\output_data\contacts.csv   
+* git\Crowdfunding_ETL\output_data\subcategory.csv  
 
-### **For using regex on dataframes things got a little messy so we had to research quite a bit:**
+### **If we used part 2 for contacts DF - Using regex on dataframes things got a little messy so we had to research quite a bit:**
 * https://sparkbyexamples.com/pandas/pandas-apply-with-lambda-examples/
 * https://www.geeksforgeeks.org/applying-lambda-functions-to-pandas-dataframe/
 * https://stackoverflow.com/questions/25292838/applying-regex-to-a-pandas-dataframe
